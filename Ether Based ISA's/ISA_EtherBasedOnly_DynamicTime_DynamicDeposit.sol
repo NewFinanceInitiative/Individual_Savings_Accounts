@@ -1,0 +1,17 @@
+// SPDX-License-Identifier: GPL-3.0
+
+// UMI Platform 
+
+// 01001110 01100101 01110111 01000110 01101001
+// 01101110 01100001 01101110 01100011 01100101
+// 01001001 01101110 01101001 01110100 01101001
+// 01100001 01110100 01101001 01110110 01100101 
+
+import"./Interface_ISA.sol";
+import"./SafeMaths.sol";
+
+pragma solidity ^0.8.0; 
+
+contract ISA_EtherBasedOnly_DynamicTime_DynamicDeposit {
+
+}
