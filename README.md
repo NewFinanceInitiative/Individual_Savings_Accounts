@@ -1,2 +1,2 @@
 # Individual_Savings_Accounts
-Smart contract based ISA contracts for Ethereum, written in Solidity.
+Smart contract based ISA's for Ethereum.
