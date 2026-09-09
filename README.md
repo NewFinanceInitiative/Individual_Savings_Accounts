@@ -10,15 +10,15 @@ Smart contract based ISA's operate as individual savings vehicles for blockchain
 
 The ERC20 based ISA's are for EVM blockchain ERC20 token standards.
 
-### Set Time Period 
+### ERC20 Set Time Period 
 
-### Set Time & Dynamic Value Limit Deposit
+### ERC20 Set Time & Dynamic Value Limit Deposit
 
-### Set Time & Set Value Deposit
+### ERC20 Set Time & Set Value Deposit
 
-### Token Restricted Deposit
+### ERC20 Token Restricted Deposit
 
-### Value Limit Unlock
+### ERC20 Value Limit Unlock
 
 ## Ether Based ISA's
 
