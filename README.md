@@ -1,4 +1,4 @@
-# Instant Savings Accounts
+# Instant Savings Accounts (Smart Contract Based ISA's)
 
 Smart contract based ISA's for Ethereum.
 
